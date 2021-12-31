@@ -7,3 +7,4 @@ You can check Hourly and Daily Forecast as well.
 
 Go to following link.
 https://lee1761.github.io/lee1761-Weather_VR1/
+<img width="1440" alt="Screen Shot 2021-12-31 at 4 53 14 pm" src="https://user-images.githubusercontent.com/63223218/147807177-a0ee21cf-8a77-4b1c-8abd-0286538ad01d.png">
